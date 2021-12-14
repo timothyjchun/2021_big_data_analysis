@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="288pt" version="1.1" viewBox="0 0 432 288" width="432pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2021-12-06T14:18:18.274023</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.4.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 288 
+L 432 288 
+L 432 0 
+L 0 0 
+z
+" style="fill:none;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 54 252 
+L 388.8 252 
+L 388.8 34.56 
+L 54 34.56 
+z
+" style="fill:#ffffff;"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path d="M 0 0 
+L 0 3.5 
+" id="me9a7434dd7" style="stroke:#000000;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="103.036364" xlink:href="#me9a7434dd7" y="252"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- 2 -->
+      <g transform="translate(99.841051 266.307813)scale(0.1 -0.1)">
+       <defs>
+        <path d="M 2591 1823 
+L 1773 1130 
+Q 1467 874 1168 500 
+L 2729 500 
+Q 2991 500 3091 656 
+Q 3172 787 3291 1299 
+L 3503 1299 
+L 3409 0 
+L 606 0 
+L 606 175 
+Q 924 543 1211 862 
+Q 1218 868 1755 1461 
+Q 1986 1717 2217 1973 
+Q 2523 2310 2685 2669 
+Q 2847 3028 2847 3340 
+Q 2847 3721 2641 3946 
+Q 2435 4171 2054 4171 
+Q 1630 4171 1343 3965 
+Q 1080 3778 1080 3534 
+Q 1080 3440 1124 3406 
+Q 1168 3372 1286 3340 
+Q 1599 3247 1599 2966 
+Q 1599 2804 1492 2704 
+Q 1386 2604 1224 2604 
+Q 1024 2604 886 2778 
+Q 749 2953 749 3228 
+Q 749 3746 1133 4080 
+Q 1517 4414 2117 4414 
+Q 2704 4414 3084 4083 
+Q 3465 3753 3465 3234 
+Q 3465 2885 3250 2541 
+Q 3035 2198 2591 1823 
+z
+" id="AppleMyungjo-32" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AppleMyungjo-32"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="170.672727" xlink:href="#me9a7434dd7" y="252"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- 4 -->
+      <g transform="translate(167.477415 266.307813)scale(0.1 -0.1)">
+       <defs>
+        <path d="M 456 1411 
+L 2548 4327 
+L 2747 4327 
+L 2747 1374 
+L 3472 1374 
+L 3472 1111 
+L 2747 1111 
+L 2747 450 
+Q 2747 350 2834 293 
+Q 2922 237 3053 237 
+L 3316 237 
+L 3316 0 
+L 1586 0 
+L 1586 237 
+L 1904 237 
+Q 2229 237 2229 506 
+L 2229 1111 
+L 456 1111 
+L 456 1411 
+z
+M 2229 1374 
+L 2229 3484 
+L 718 1374 
+L 2229 1374 
+z
+" id="AppleMyungjo-34" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AppleMyungjo-34"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="238.309091" xlink:href="#me9a7434dd7" y="252"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- 6 -->
+      <g transform="translate(235.113778 266.307813)scale(0.1 -0.1)">
+       <defs>
+        <path d="M 550 1979 
+Q 550 3041 1080 3740 
+Q 1592 4414 2342 4414 
+Q 2760 4414 3066 4199 
+Q 3372 3984 3372 3678 
+Q 3372 3484 3256 3362 
+Q 3141 3241 2960 3241 
+Q 2804 3241 2694 3344 
+Q 2585 3447 2585 3590 
+Q 2585 3671 2679 3834 
+Q 2729 3921 2729 3971 
+Q 2729 4065 2622 4127 
+Q 2516 4190 2335 4190 
+Q 1830 4190 1508 3671 
+Q 1186 3153 1186 2304 
+L 1193 2048 
+Q 1424 2348 1673 2491 
+Q 1954 2654 2304 2654 
+Q 2810 2654 3162 2307 
+Q 3515 1961 3515 1411 
+Q 3515 768 3112 340 
+Q 2710 -87 2079 -87 
+Q 1386 -87 968 481 
+Q 550 1049 550 1979 
+z
+M 2129 2348 
+Q 1730 2348 1486 2060 
+Q 1243 1773 1243 1274 
+Q 1243 737 1477 437 
+Q 1711 137 2092 137 
+Q 2479 137 2697 418 
+Q 2916 699 2916 1243 
+Q 2916 2348 2129 2348 
+z
+" id="AppleMyungjo-36" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AppleMyungjo-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="305.945455" xlink:href="#me9a7434dd7" y="252"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- 8 -->
+      <g transform="translate(302.750142 266.307813)scale(0.1 -0.1)">
+       <defs>
+        <path d="M 756 3253 
+Q 756 3734 1127 4074 
+Q 1499 4414 2073 4414 
+Q 2647 4414 2997 4133 
+Q 3347 3852 3347 3428 
+Q 3347 2847 2598 2448 
+Q 3072 2279 3303 1998 
+Q 3534 1717 3534 1280 
+Q 3534 687 3122 300 
+Q 2710 -87 2017 -87 
+Q 1361 -87 964 234 
+Q 568 556 568 1049 
+Q 568 1455 815 1714 
+Q 1062 1973 1580 2154 
+Q 756 2510 756 3253 
+z
+M 2354 2529 
+Q 2654 2697 2760 2841 
+Q 2903 3035 2903 3384 
+Q 2903 3778 2684 3984 
+Q 2466 4190 2061 4190 
+Q 1648 4190 1411 4002 
+Q 1174 3815 1174 3490 
+Q 1174 3109 1467 2903 
+Q 1686 2747 2354 2529 
+z
+M 1811 2067 
+Q 1405 1892 1230 1686 
+Q 1030 1449 1030 1068 
+Q 1030 618 1289 377 
+Q 1549 137 2042 137 
+Q 2535 137 2831 377 
+Q 3128 618 3128 1036 
+Q 3128 1480 2629 1736 
+Q 2398 1854 1811 2067 
+z
+" id="AppleMyungjo-38" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AppleMyungjo-38"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="373.581818" xlink:href="#me9a7434dd7" y="252"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- 10 -->
+      <g transform="translate(367.191193 266.307813)scale(0.1 -0.1)">
+       <defs>
+        <path d="M 2204 4327 
+L 2354 4327 
+L 2354 437 
+Q 2354 343 2432 290 
+Q 2510 237 2635 237 
+L 3241 237 
+L 3241 0 
+L 999 0 
+L 999 237 
+L 1517 237 
+Q 1836 237 1836 512 
+L 1836 3459 
+Q 1836 3553 1761 3615 
+Q 1686 3678 1574 3678 
+L 880 3678 
+L 880 3890 
+Q 1324 3940 1599 4027 
+Q 1936 4133 2204 4327 
+z
+" id="AppleMyungjo-31" transform="scale(0.015625)"/>
+        <path d="M 2036 4414 
+Q 2722 4414 3134 3824 
+Q 3547 3234 3547 2167 
+Q 3547 1111 3138 512 
+Q 2729 -87 2067 -87 
+Q 1392 -87 980 515 
+Q 568 1118 568 2160 
+Q 568 3191 971 3802 
+Q 1374 4414 2036 4414 
+z
+M 2054 4190 
+Q 1561 4190 1364 3709 
+Q 1168 3228 1168 2173 
+Q 1168 1105 1364 621 
+Q 1561 137 2054 137 
+Q 2529 137 2738 615 
+Q 2947 1093 2947 2123 
+Q 2947 3197 2754 3671 
+Q 2541 4190 2054 4190 
+z
+" id="AppleMyungjo-30" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AppleMyungjo-31"/>
+       <use x="63.902435" xlink:href="#AppleMyungjo-30"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_6">
+      <defs>
+       <path d="M 0 0 
+L -3.5 0 
+" id="md07e00cc03" style="stroke:#000000;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="54" xlink:href="#md07e00cc03" y="236.625455"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- 2.5 -->
+      <g transform="translate(30.21875 240.279361)scale(0.1 -0.1)">
+       <defs>
+        <path d="M 1305 681 
+Q 1467 681 1570 571 
+Q 1673 462 1673 300 
+Q 1673 137 1567 25 
+Q 1461 -87 1299 -87 
+Q 1136 -87 1027 22 
+Q 918 131 918 293 
+Q 918 443 1030 562 
+Q 1143 681 1305 681 
+z
+" id="AppleMyungjo-2e" transform="scale(0.015625)"/>
+        <path d="M 949 2435 
+L 1018 3359 
+Q 1018 3572 1040 3943 
+Q 1062 4315 1062 4414 
+Q 1430 4327 1779 4280 
+Q 2129 4233 2335 4233 
+Q 2616 4233 2841 4290 
+Q 3010 4352 3178 4414 
+L 3203 4371 
+Q 3203 4152 2928 3940 
+Q 2604 3684 2123 3684 
+Q 1911 3684 1708 3712 
+Q 1505 3740 1255 3790 
+L 1149 2604 
+Q 1399 2729 1567 2779 
+Q 1786 2847 2017 2847 
+Q 2616 2847 3037 2444 
+Q 3459 2042 3459 1430 
+Q 3459 762 3009 337 
+Q 2560 -87 1867 -87 
+Q 1318 -87 983 215 
+Q 649 518 649 955 
+Q 649 1205 752 1345 
+Q 855 1486 1030 1486 
+Q 1193 1486 1299 1373 
+Q 1405 1261 1405 1080 
+Q 1405 899 1236 818 
+Q 1130 762 1099 743 
+Q 1030 693 1030 631 
+Q 1030 456 1258 296 
+Q 1486 137 1830 137 
+Q 2822 137 2822 1392 
+Q 2822 1967 2572 2266 
+Q 2323 2566 1867 2566 
+Q 1499 2566 1124 2298 
+Q 1105 2117 1068 2036 
+Q 1012 1929 899 1929 
+Q 762 1929 762 2098 
+Q 762 2210 837 2304 
+Q 893 2366 949 2435 
+z
+" id="AppleMyungjo-35" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AppleMyungjo-32"/>
+       <use x="63.902435" xlink:href="#AppleMyungjo-2e"/>
+       <use x="103.90242" xlink:href="#AppleMyungjo-35"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_7">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="54" xlink:href="#md07e00cc03" y="209.170909"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- 5.0 -->
+      <g transform="translate(30.21875 212.824815)scale(0.1 -0.1)">
+       <use xlink:href="#AppleMyungjo-35"/>
+       <use x="63.902435" xlink:href="#AppleMyungjo-2e"/>
+       <use x="103.90242" xlink:href="#AppleMyungjo-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_8">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="54" xlink:href="#md07e00cc03" y="181.716364"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- 7.5 -->
+      <g transform="translate(30.21875 185.37027)scale(0.1 -0.1)">
+       <defs>
+        <path d="M 706 2928 
+L 924 4414 
+Q 1261 4327 1592 4327 
+L 3534 4327 
+L 3534 4190 
+Q 3222 3646 3053 3284 
+Q 2785 2716 2635 2173 
+Q 2485 1630 2410 500 
+Q 2373 -87 2036 -87 
+Q 1698 -87 1698 368 
+Q 1698 718 1929 1374 
+Q 2198 2135 2691 3041 
+L 3122 3840 
+L 1424 3840 
+Q 1205 3840 1111 3646 
+Q 1043 3509 924 2928 
+L 706 2928 
+z
+" id="AppleMyungjo-37" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#AppleMyungjo-37"/>
+       <use x="63.902435" xlink:href="#AppleMyungjo-2e"/>
+       <use x="103.90242" xlink:href="#AppleMyungjo-35"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_9">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="54" xlink:href="#md07e00cc03" y="154.261818"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- 10.0 -->
+      <g transform="translate(23.828125 157.915724)scale(0.1 -0.1)">
+       <use xlink:href="#AppleMyungjo-31"/>
+       <use x="63.902435" xlink:href="#AppleMyungjo-30"/>
+       <use x="127.804871" xlink:href="#AppleMyungjo-2e"/>
+       <use x="167.804855" xlink:href="#AppleMyungjo-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_10">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="54" xlink:href="#md07e00cc03" y="126.807273"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- 12.5 -->
+      <g transform="translate(23.828125 130.461179)scale(0.1 -0.1)">
+       <use xlink:href="#AppleMyungjo-31"/>
+       <use x="63.902435" xlink:href="#AppleMyungjo-32"/>
+       <use x="127.804871" xlink:href="#AppleMyungjo-2e"/>
+       <use x="167.804855" xlink:href="#AppleMyungjo-35"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_11">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="54" xlink:href="#md07e00cc03" y="99.352727"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <!-- 15.0 -->
+      <g transform="translate(23.828125 103.006634)scale(0.1 -0.1)">
+       <use xlink:href="#AppleMyungjo-31"/>
+       <use x="63.902435" xlink:href="#AppleMyungjo-35"/>
+       <use x="127.804871" xlink:href="#AppleMyungjo-2e"/>
+       <use x="167.804855" xlink:href="#AppleMyungjo-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_12">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="54" xlink:href="#md07e00cc03" y="71.898182"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <!-- 17.5 -->
+      <g transform="translate(23.828125 75.552088)scale(0.1 -0.1)">
+       <use xlink:href="#AppleMyungjo-31"/>
+       <use x="63.902435" xlink:href="#AppleMyungjo-37"/>
+       <use x="127.804871" xlink:href="#AppleMyungjo-2e"/>
+       <use x="167.804855" xlink:href="#AppleMyungjo-35"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_13">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="54" xlink:href="#md07e00cc03" y="44.443636"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <!-- 20.0 -->
+      <g transform="translate(23.828125 48.097543)scale(0.1 -0.1)">
+       <use xlink:href="#AppleMyungjo-32"/>
+       <use x="63.902435" xlink:href="#AppleMyungjo-30"/>
+       <use x="127.804871" xlink:href="#AppleMyungjo-2e"/>
+       <use x="167.804855" xlink:href="#AppleMyungjo-30"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_14">
+    <path clip-path="url(#p60959a0662)" d="M 69.218182 242.116364 
+L 103.036364 220.152727 
+L 136.854545 198.189091 
+L 170.672727 176.225455 
+L 204.490909 154.261818 
+L 238.309091 132.298182 
+L 272.127273 110.334545 
+L 305.945455 88.370909 
+L 339.763636 66.407273 
+L 373.581818 44.443636 
+" style="fill:none;stroke:#1f77b4;stroke-linecap:square;stroke-width:1.5;"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 54 252 
+L 54 34.56 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 388.8 252 
+L 388.8 34.56 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 54 252 
+L 388.8 252 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 54 34.56 
+L 388.8 34.56 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p60959a0662">
+   <rect height="217.44" width="334.8" x="54" y="34.56"/>
+  </clipPath>
+ </defs>
+</svg>
